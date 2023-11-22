@@ -13,8 +13,4 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
-// 6. run the server
-// node comments.js
-// 7. open browser
-// http://localhost:3000
-// 8. ctrl + c to stop the server
+

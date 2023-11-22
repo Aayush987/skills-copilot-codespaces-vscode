@@ -4,4 +4,5 @@ function skillsMember() {
         templateUrl: 'views/skills-member.html',
         controller: 'SkillsMemberController',
         controllerAs: 'skillsMemberCtrl'
-    };
+    }
+}
